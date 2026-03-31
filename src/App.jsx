@@ -271,7 +271,7 @@ function App() {
                 </button>
                 <button
                   onClick={() => scrollToSection("contact")}
-                  className="px-8 py-3 border-2 border-[#2979FF] text-[#EAEAEA] rounded-lg hover:bg-amber-900 hover:text-amber-50 transition-all"
+                  className="px-8 py-3 border-2 border-[#2979FF] text-[#EAEAEA] rounded-lg hover:bg-black hover:text-amber-50 transition-all"
                 >
                   Get In Touch
                 </button>
